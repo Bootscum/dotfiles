@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = stowers.elliot@gmail.com
+	name = john stowers
